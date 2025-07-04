@@ -1,7 +1,7 @@
 # Hi there, I'm Ismail 👋
 
 ## About Me
-- 🏢 I'm currently working at HCLTech as a Senior Software Engineer.
+- 🏢 I'm currently working at Eesti Energia as a Senior Software Engineer.
 - 📚 I am also studying Artificial Intelligence at the University of Liverpool.
 - 💻 I love writing code and learning about new technologies.
 - 🌱 I’m always open to collaborating on projects and innovative/disruptive ideas.
