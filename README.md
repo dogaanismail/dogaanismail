@@ -7,13 +7,13 @@
 - 🌱 I’m always open to collaborating on projects and innovative/disruptive ideas.
 
 ## My GitHub Stats
-![Ismail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dogaanismail&show_icons=true)
+![Ismail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dogaanismail&show_icons=true&theme=default)
 
 ## Language Usage
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogaanismail&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogaanismail&layout=compact&theme=default)
 
 ## My Coding Streak
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dogaanismail&theme=dark&background=000000)
+![GitHub Streak](https://streak-stats.demolab.com?user=dogaanismail&theme=dark&background=000000)
 
 ## Connect with Me
 [![Linkedin Badge](https://img.shields.io/badge/-Ismail%20Dogan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismail-dogan/)](https://www.linkedin.com/in/ismail-dogan/)
