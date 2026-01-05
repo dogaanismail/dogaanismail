@@ -7,10 +7,10 @@
 - 🌱 I’m always open to collaborating on projects and innovative/disruptive ideas.
 
 ## My GitHub Stats
-![Ismail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dogaanismail&show_icons=true&theme=default)
+![Ismail's GitHub Stats](https://github-readme-stats-rickstaa.vercel.app/api?username=dogaanismail&show_icons=true&theme=default)
 
 ## Language Usage
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogaanismail&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=dogaanismail&layout=compact&theme=default)
 
 ## My Coding Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=dogaanismail&theme=dark&background=000000)
